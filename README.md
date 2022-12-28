@@ -23,10 +23,10 @@ Here are some ideas to get you started:
 - Analyzing how human biases influence dataset creation
 
 #### 📄 (Some) Publications
-- **Younghoon Jeong**, Juhyun Oh, Jaimeen Ahn, Jongwon Lee, Jihyung Moo*, Sungjoon Park, Alice Oh. ["KOLD: Korean Offensive Language Dataset."](https://arxiv.org/pdf/2205.11315.pdf) EMNLP 2022
-- Sungjoon Park\*, Jihyung Moon\*, Sungdong Kim\*, Won Ik Cho\*, Jiyoon Han, Jangwon Park, Chisung Song et al. ["KLUE: Korean Language Understanding Evaluation."](https://arxiv.org/pdf/2105.09680.pdf) NeurIPS 2021 Datasets and Benchmarks
-- Won Ik Cho, Soomin Kim, Eujeong Choi, **Younghoon Jeong**. ["Assessing How Users Display Self-Disclosure and Authenticity in Conversation with Human-Like Agents: A Case Study of Luda Lee"](https://aclanthology.org/2022.findings-aacl.14/) AACL-IJCNLP 2022
-- **Younghoon Jeong**, Sejin Lee, Jungyun Seo. [TOM: End-to-End Task- Oriented Multimodal Dialog System with GPT-2](https://drive.google.com/file/d/1_-F_7mGcmmIm7S5IyH-puVZM5uelp7nu/view) DSTC9@AAAI 2020
+- **Younghoon Jeong**, Juhyun Oh, Jaimeen Ahn, Jongwon Lee, Jihyung Moo*, Sungjoon Park, Alice Oh. [KOLD: Korean Offensive Language Dataset](https://arxiv.org/pdf/2205.11315.pdf). EMNLP 2022
+- Sungjoon Park\*, Jihyung Moon\*, Sungdong Kim\*, Won Ik Cho\*, Jiyoon Han, Jangwon Park, Chisung Song et al. [KLUE: Korean Language Understanding Evaluation](https://arxiv.org/pdf/2105.09680.pdf). NeurIPS 2021 Datasets and Benchmarks
+- Won Ik Cho, Soomin Kim, Eujeong Choi, **Younghoon Jeong**. [Assessing How Users Display Self-Disclosure and Authenticity in Conversation with Human-Like Agents: A Case Study of Luda Lee](https://aclanthology.org/2022.findings-aacl.14/). AACL-IJCNLP 2022
+- **Younghoon Jeong**, Sejin Lee, Jungyun Seo. [TOM: End-to-End Task- Oriented Multimodal Dialog System with GPT-2](https://drive.google.com/file/d/1_-F_7mGcmmIm7S5IyH-puVZM5uelp7nu/view). DSTC9@AAAI 2020
 
 
 <div align=center>
