@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 <div align=center>
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/mjihyung/)](https://www.linkedin.com/in/boychaboy/)
-[![Blog Badge](http://img.shields.io/badge/Blog-black?style=flat&logo=github&link=https://inmoonlight.github.io/)](https://inmoonlight.github.io/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:mjihyung@gmail.com)](mailto:hoon2j@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/boychaboy/)](https://www.linkedin.com/in/boychaboy/)
+[![Blog Badge](http://img.shields.io/badge/Blog-black?style=flat&logo=github&link=https://boychaboy.github.io/)](https://boychaboy.github.io/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:hoon2j@gmail.com)](mailto:hoon2j@gmail.com)
 <div>
